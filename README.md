@@ -1,0 +1,2 @@
+# quantumai
+Quantum Trading Bot
